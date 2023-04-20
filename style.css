@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    color:rgb(246, 113, 3);
+    font-family:'Times New Roman';
+    background-color: chartreuse;
+    padding: 45px;
+    
+    
+    
+}
+h2 {font-size: x-large;
+    font-family: fantasy;
+    color: chartreuse;
+background-color: crimson;
+padding: 25px;
+border-width: 5px;
+border-color: gold;}
+    p {
+        color:rgb(250, 0, 0);
+        background-color: yellow;
+        }
+        
+body {background-color:rgb(57, 37, 101);}
+            
+img {
+                border: 5px solid fuchsia;
+                width:50%;
+height:50%;
+margin-left: 100px;
+
+                }
+           
+                        
